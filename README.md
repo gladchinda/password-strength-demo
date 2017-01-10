@@ -10,5 +10,5 @@ You can also get a [live demo on jsFiddle][jsfiddle-demo].
 [angularjs]: https://angularjs.org/
 [bower]: https://bower.io/
 [bower-install]: https://bower.io/#install-bower
-[jsfiddle-demo]: https://jsfiddle.net/vxjef11j/22/
+[jsfiddle-demo]: https://jsfiddle.net/vxjef11j/26/
 [zxcvbn]: https://github.com/dropbox/zxcvbn
